@@ -24,7 +24,7 @@
   <router-view />
   <div class="footer-container">
     <div class="footer">
-      <div class='footer-item footer-two'>Thanks For Visiting!<br><a href="https://github.com/BYUCS260/grocery-store-Jarmanation.git">GitHub</a></div>
+      <div class='footer-item footer-two'>Thanks For Visiting!<br><a href="https://github.com/BYUCS260/grocery-store-Jarmanation.gitfil">GitHub</a></div>
     </div>
   </div>
 
